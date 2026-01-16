@@ -3,7 +3,7 @@
 TastyPages is a modern and responsive recipe web application built using **React**, **Tailwind CSS**, **Material UI**, and **TheMealDB API**.  
 It allows users to explore random recipes, search for meals, and view detailed recipe information including ingredients, cooking instructions, and video links.
 
-🔗 **Live Demo:** https://mealrecipepp.netlify.app/
+🔗 **Live Demo:** https://mealrecipepp.netlify.app
 
 ---
 
